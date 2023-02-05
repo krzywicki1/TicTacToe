@@ -2,8 +2,8 @@
 	TicTacToe in .NET
 </h1>
 Simple TicTacToe game written in C# using .Net
-Interface made with Windows Forms
-Compete against another person or try to win with AI.
+> Interface made with Windows Forms
+> Compete against another person or try to win with AI.
 
 ## How to use
 
