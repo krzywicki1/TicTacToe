@@ -15,6 +15,6 @@ Visual Studio <sub>[Expand]</sub>
 
 > 1. Install [Visual Studio](https://visualstudio.microsoft.com/) if not already installed.
 >
-> 2. Open the <sub>[![File](.github/resources/file-16.svg)](#)</sub> **`TicTacToe.sln`** file in Visual Studio.
+> 2. Open the <sub>(#)</sub> **`TicTacToe.sln`** file in Visual Studio.
 >
 > 3. Run the games with the `Debug`->`Start Debugging` (default hotkey `F5`) option in the menu strip.
